@@ -15,7 +15,8 @@ const errorMessages = {
 
 const constants = {
     errorMessages: errorMessages,
-    firebaseUrl: 'https://resplendent-fire-4810.firebaseio.com/'
+    // firebaseUrl: 'https://resplendent-fire-4810.firebaseio.com/'
+    firebaseUrl: 'https://intense-inferno-1747.firebaseio.com'
 };
 
 export default constants;
